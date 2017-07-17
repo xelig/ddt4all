@@ -19,180 +19,180 @@ msgstr ""
 
 #: dataeditor.py:165
 msgid "Goto data"
-msgstr ""
+msgstr "Goto data"
 
 #: dataeditor.py:166
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: dataeditor.py:171
 msgid "Add to screen"
-msgstr ""
+msgstr "Aggiungi alla schermata"
 
 #: dataeditor.py:261
 msgid "Request name;Manual"
-msgstr ""
+msgstr "Nome richiesta;Manuale"
 
 #: dataeditor.py:291 dataeditor.py:1151
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 #: dataeditor.py:292 dataeditor.py:1153
 msgid "Refresh"
-msgstr ""
+msgstr "Aggiorna"
 
 #: dataeditor.py:300
 msgid "Send request bytes (HEX)"
-msgstr ""
+msgstr "Invia richiesta Bytes"
 
 #: dataeditor.py:302
 msgid "Receive bytes (HEX)"
-msgstr ""
+msgstr "Ricevi Bytes"
 
 #: dataeditor.py:314
 msgid "Data length"
-msgstr ""
+msgstr "Lunghezza dati"
 
 #: dataeditor.py:316
 msgid "Shift byte count"
-msgstr ""
+msgstr "Conteggio spostamento Byte"
 
 #: dataeditor.py:450
 msgid "Data name;Start byte;Bit offset;Bit count;Endianess"
-msgstr ""
+msgstr "Nome dati;Avvio byte;Bit Offset;Conteggio Bit;Endianess"
 
 #: dataeditor.py:468 dataeditor.py:528
 msgid "Little"
-msgstr ""
+msgstr "Piccolo"
 
 #: dataeditor.py:469 dataeditor.py:530
 msgid "Big"
-msgstr ""
+msgstr "Grande"
 
 #: dataeditor.py:470 dataeditor.py:526
 msgid "Inherits globals"
-msgstr ""
+msgstr "Inherits globals"
 
 #: dataeditor.py:581
 msgid "Reload requests"
-msgstr ""
+msgstr "Richieste di ricarica"
 
 #: dataeditor.py:582
 msgid "Add request"
-msgstr ""
+msgstr "Aggiungi richiesta"
 
 #: dataeditor.py:600
 msgid "Send bytes"
-msgstr ""
+msgstr "Invia bytes"
 
 #: dataeditor.py:601
 msgid "Receive bytes"
-msgstr ""
+msgstr "Ricevi bytes"
 
 #: dataeditor.py:657
 msgid "Number of bits"
-msgstr ""
+msgstr "Numero di bits"
 
 #: dataeditor.py:658 dataeditor.py:820
 msgid "Signed"
-msgstr ""
+msgstr "Firmato"
 
 #: dataeditor.py:659
 msgid "Add item"
-msgstr ""
+msgstr "Aggiungi oggetto"
 
 #: dataeditor.py:660
 msgid "Del item"
-msgstr ""
+msgstr "Cancella oggetto"
 
 #: dataeditor.py:699
 msgid "New item"
-msgstr ""
+msgstr "Nuovo oggetto"
 
 #: dataeditor.py:751
 msgid "Value;Text"
-msgstr ""
+msgstr "Valore;Testo"
 
 #: dataeditor.py:767
 msgid "Number of bytes"
-msgstr ""
+msgstr "Numero di bytes"
 
 #: dataeditor.py:768 dataeditor.py:819
 msgid "Unit"
-msgstr ""
+msgstr "Unità"
 
 #: dataeditor.py:818
 msgid "Number of bit"
-msgstr ""
+msgstr "Numero di bit"
 
 #: dataeditor.py:821
 msgid "Format"
-msgstr ""
+msgstr "Formato"
 
 #: dataeditor.py:822
 msgid "Value = (AX+B) / C"
-msgstr ""
+msgstr "Valore =(AB+B) / C"
 
 #: dataeditor.py:895
 msgid "New"
-msgstr ""
+msgstr "Nuovo"
 
 #: dataeditor.py:896
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 #: dataeditor.py:897
 msgid "Validate changes"
-msgstr ""
+msgstr "Conferma cambiamenti"
 
 #: dataeditor.py:930
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #: dataeditor.py:936
 msgid "Data type"
-msgstr ""
+msgstr "Tipo di dati"
 
 #: dataeditor.py:938
 msgid "Numeric"
-msgstr ""
+msgstr "Numerico"
 
 #: dataeditor.py:939
 msgid "Numeric items"
-msgstr ""
+msgstr "Oggetto Numerico"
 
 #: dataeditor.py:940
 msgid "Hex"
-msgstr ""
+msgstr "Esadecimale"
 
 #: dataeditor.py:974
 msgid "New data"
-msgstr ""
+msgstr "Nuovi dati"
 
 #: dataeditor.py:980
 msgid "Replace me with request description"
-msgstr ""
+msgstr "Sostituisci con la descrizione della richiesta"
 
 #: dataeditor.py:1115
 msgid "Data name;Description"
-msgstr ""
+msgstr "Nome dei dati;Descrizione"
 
 #: dataeditor.py:1152
 msgid "Del"
-msgstr ""
+msgstr "Cancella"
 
 #: dataeditor.py:1154
 msgid "Move up"
-msgstr ""
+msgstr "Muovi su"
 
 #: dataeditor.py:1155
 msgid "Check"
-msgstr ""
+msgstr "Controlla"
 
 #: dataeditor.py:1199
 #, python-format
 msgid "Request %s not found"
-msgstr ""
+msgstr "Richiesta %s non trovata"
 
 #: dataeditor.py:1218
 #, python-format
@@ -200,6 +200,8 @@ msgid ""
 "<font color=green>Request <font color=blue>'%s'</font> has no missing input "
 "values</font>"
 msgstr ""
+"<font color=green>La richiesta <font color=blue>'%s'</font> non ha ingressi mancanti "
+"values</font>"
 
 #: dataeditor.py:1221
 #, python-format
@@ -207,6 +209,8 @@ msgid ""
 "<font color=red>Request <font color=blue>'%s'</font> has missing inputs :</"
 "font>"
 msgstr ""
+"<font color=red>La richiesta <font color=blue>'%s'</font> ha ingressi mancanti :</"
+"font>"
 
 #: dataeditor.py:1224
 #, python-format
@@ -215,72 +219,72 @@ msgstr ""
 
 #: dataeditor.py:1320
 msgid "Delay;Request"
-msgstr ""
+msgstr "Ritardo;Richiesta"
 
 #: dataeditor.py:1412
 msgid "Screen initialization"
-msgstr ""
+msgstr "Inizializzazione schermo"
 
 #: dataeditor.py:1413
 msgid "Requests to send before screen drawing"
-msgstr ""
+msgstr "Richieste da inviare prima del disegno dello schermo"
 
 #: dataeditor.py:1427
 msgid "Button name;Unique name"
-msgstr ""
+msgstr "Nome bottone;Nome unico"
 
 #: dataeditor.py:1496
 msgid "ECU Function address"
-msgstr ""
+msgstr "Indirizzo funzioneECU"
 
 #: dataeditor.py:1499
 msgid "ECU Protocol"
-msgstr ""
+msgstr "Protocollo ECU"
 
 #: dataeditor.py:1501 dataeditor.py:1619
 msgid "Tool > Ecu ID (Hex)"
-msgstr ""
+msgstr "Strumento > Ecu ID (Hex)"
 
 #: dataeditor.py:1503 dataeditor.py:1620
 msgid "Ecu > Tool ID (Hex)"
-msgstr ""
+msgstr "Ecu > ID Strumento(Hex)"
 
 #: dataeditor.py:1505
 msgid "Coding"
-msgstr ""
+msgstr "codifica"
 
 #: dataeditor.py:1509
 msgid "Big Endian"
-msgstr ""
+msgstr "Big Endian"
 
 #: dataeditor.py:1510
 msgid "Little Endian"
-msgstr ""
+msgstr "Little Endian"
 
 #: dataeditor.py:1525
 msgid "Diag version;Supplier;Soft;Version"
-msgstr ""
+msgstr "Versione Diag;Fornitore;Soft;Versione"
 
 #: dataeditor.py:1533
 msgid "Add new"
-msgstr ""
+msgstr "Aggiungi Nuovo"
 
 #: dataeditor.py:1534
 msgid "Delete selected"
-msgstr ""
+msgstr "Cancella selezionato"
 
 #: dataeditor.py:1535
 msgid "Diag version"
-msgstr ""
+msgstr "Versione Diag"
 
 #: dataeditor.py:1538
 msgid "Supplier"
-msgstr ""
+msgstr "Fornitore"
 
 #: dataeditor.py:1541
 msgid "Soft"
-msgstr ""
+msgstr "Soft"
 
 #: dataeditor.py:1544
 msgid "Version"
-msgstr ""
+msgstr "Versione"
